@@ -34,11 +34,11 @@ Dataset/
 ### Environment Setup
 
 To get started, we recommend setting up a conda environment and installing dependencies via pip. Use the following commands to set up your environment.
-
+```
 conda create -n env python=3.8.20
 conda activate env
 pip install -r requirements.txt
-
+```
 ### Train and Test
 python train_cave_M.py
 
