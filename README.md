@@ -42,8 +42,7 @@ pip install -r requirements.txt
 ### Train and Test
 python train_cave_M.py
 
-
-###Citation
+### Citation
 
 If this project helps your research, please cite our paper:
 
