@@ -44,11 +44,7 @@ python train_cave_M.py
 
 ### Citation
 
-If this project helps your research, please cite our paper:
-
-```
-
-```
+If this project helps your research, please cite our paper
 
 ## 🌸 Acknowledgment
 
